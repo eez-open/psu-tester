@@ -1,1 +1,1 @@
-EEZ tester for H24005 power supply Power board and AUX power module
+PCB tester for H24005 power supply's Power board and AUX power module that can be used during PCBA and final quality assurance process. Require Arduino Leonardo board and sketch with various test cases.
